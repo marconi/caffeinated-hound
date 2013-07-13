@@ -18,7 +18,7 @@ requires = ['watchdog==0.6.0',
             'docopt==0.6.1']
 
 setup(
-    name='hound',
+    name='caffeinated-hound',
     version=hound.__version__,
     packages=packages,
     license=open('LICENSE.txt').read(),
