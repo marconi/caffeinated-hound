@@ -23,7 +23,7 @@ setup(
     packages=packages,
     license=open('LICENSE.txt').read(),
     description='CoffeeScript watcher and compiler.',
-    long_description=open('README.rst').read() + '\n\n' +
+    long_description=open('README.md').read() + '\n\n' +
                      open('HISTORY.rst').read(),
     author='Marconi Moreto',
     author_email='caketoad@gmail.com',
